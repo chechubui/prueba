@@ -1,0 +1,7 @@
+#fichero excluir algun tipo 
+#de archivos que no quiero que pertenezca al repositorio
+#backup del sistema
+/*~
+/*.sw.
+#ignoramos los .class
+/*.class
